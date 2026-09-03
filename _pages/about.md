@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral researcher, <a href="https://www.umu.se/en/department-of-ecology-environment-and-geoscience/">Umeå University</a>, Sweden
 
 profile:
   align: right
