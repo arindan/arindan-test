@@ -9,9 +9,9 @@ profile:
   image: Mandal_Arindan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>A3-40-15, KBC-huset</p>
+    <p>Linnaeus väg 6, Umeå University</p>
+    <p>901 87 Umeå, Sweden</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
