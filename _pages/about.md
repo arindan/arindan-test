@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,6 +27,10 @@ latest_posts:
 
 Thank you for visiting my webpage.
 
-I study snow, glacier, permafrost and climate.
+I study snow, glacier, permafrost and climate at [Umeå University](https://www.umu.se/en/department-of-ecology-environment-and-geoscience/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently we are working on the following aspects of the cryosphere:
+* snow-glacier energy and mass balance
+* sublimation of snow
+* mountain hydro-meteorology
+* cryosphere hazard
