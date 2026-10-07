@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Climate Change</p>
-    <p>Indian Institute of Technology Hyderabad</p>
-    <p>Kandi, Telangana</p>
+    <p>IIT Hyderabad</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +26,11 @@ latest_posts:
 
 Thank you for visiting my webpage.
 
-I study snow, glacier, permafrost and climate at the [Department of Climate Change](https://cc.iith.ac.in/), IIT Hyderabad.
+I am part of the [Department of Climate Change](https://cc.iith.ac.in/), IIT Hyderabad, where my research focuses on the cryosphere (snow, glaciers, permafrost, etc.) and climate.
 
-Currently we are working on the following aspects of the cryosphere:
+Our current research particularly focuses on:
+
 * snow-glacier energy and mass balance
 * sublimation of snow
 * mountain hydro-meteorology
-* cryosphere hazard
+* cryosphere hazards
