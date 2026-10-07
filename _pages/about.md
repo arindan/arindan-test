@@ -6,7 +6,7 @@ subtitle: Assistant Professor, <a href="https://iith.ac.in/">Indian Institute of
 
 profile:
   align: right
-  image: Mandal_Arindan.jpg
+  image: Mandal_Arindan_30092026_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
