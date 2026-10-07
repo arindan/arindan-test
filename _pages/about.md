@@ -31,4 +31,4 @@ Our current research particularly focuses on:
 * snow-glacier energy and mass balance
 * sublimation of snow
 * mountain hydro-meteorology
-* cryosphere hazards
+* permafrost degradation
