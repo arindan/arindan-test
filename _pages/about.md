@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher, <a href="https://www.umu.se/en/department-of-ecology-environment-and-geoscience/">Umeå University</a>, Sweden
+subtitle: Assistant Professor, <a href="https://iith.ac.in/">Indian Institute of Technology Hyderabad</a>
 
 profile:
   align: right
   image: Mandal_Arindan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A3-40-15, KBC-huset</p>
-    <p>Linnaeus väg 6, Umeå University</p>
-    <p>901 87 Umeå, Sweden</p>
+    <p>Department of Climate Change</p>
+    <p>Indian Institute of Technology Hyderabad</p>
+    <p>Kandi, Telangana</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
 
 Thank you for visiting my webpage.
 
-I study snow, glacier, permafrost and climate at [Umeå University](https://www.umu.se/en/department-of-ecology-environment-and-geoscience/).
+I study snow, glacier, permafrost and climate at the [Department of Climate Change](https://cc.iith.ac.in/), IIT Hyderabad.
 
 Currently we are working on the following aspects of the cryosphere:
 * snow-glacier energy and mass balance
