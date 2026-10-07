@@ -4,20 +4,18 @@ title: research
 permalink: /research/
 description: Field research sites, instruments, and tools.
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 
-## Field Research Sites
+## field-research sites
 
-Here are some of the field sites where I have conducted research:
+- **Stok Glacier, Ladakh** — long-term glacier energy and mass balance, ice velocity, on-glacier meteorology, and GNSS observations.
+- **Gya Glacier, Ladakh** — glacial lake monitoring, GNSS, mass balance.
+- **Ladakh region** — spatial meteorological observation using low-cost meteorological data loggers.
+- **Chhota Shigri Glacier, Himachal Pradesh** - field observation site during PhD.
 
-- **Chhota Shigri Glacier, Himachal Pradesh, India** — Snow and glacier observations, meteorological measurements, and surface energy-balance studies.
-- **Ladakh Himalaya, India** — Glacier mass-balance and remote-sensing studies across the Ladakh region.
-- **High-altitude Himalayan sites** — Field observations related to snow, glaciers, permafrost, and climate.
-- Add another field site here.
-
-### Fieldwork
+### fieldwork-instrument photos
 
 <div class="row">
 
@@ -73,30 +71,20 @@ Here are some of the field sites where I have conducted research:
 
 ---
 
-## Research Instruments & Tools
+## research instruments and tools
 
-Some of the instruments and tools I use for field observations, measurements, and data collection include:
+some of the instruments and tools we use for field measurements and data collection include:
 
-- **Automatic Weather Station (AWS)**
-- **Radiometers**
-- **Thermocouples and temperature sensors**
-- **Snow depth sensors**
-- **Snow pits and snow sampling equipment**
-- **Glacier mass-balance equipment**
-- **GPS / GNSS instruments**
-- **UAV / drone-based surveying**
-- **Digital Elevation Models (DEMs)**
-- **Remote-sensing datasets and satellite imagery**
-- **GIS and spatial analysis tools**
-- **Meteorological and glaciological data-loggers**
-- Add other instruments or tools here.
+- automatic weather station (Campbell Scientific)
+- air temperature and humidity logger (HOBO)
+- steam drill - mass balance stake installation
+- snow-ice corer - accumulation measurement
+- snow-avalanche probe (snow depth and water equivalent)
+- dual/triple band GNSS device (u-blox) - ice velocity, moraine stability
 
-### Software & Data Tools
+### software and code
 
-- **Python**
-- **R**
-- **Google Earth Engine**
-- **QGIS / GIS**
-- **Remote-sensing software**
-- **Climate and meteorological datasets**
-- Add other software/tools here.
+- Python - data analysis and visualisation
+- QGIS - remote sensing and GIS solution
+- Ames Stereo Pipeline - satellite-data photogrammetry
+- Pix4D - drone photogrammetry
