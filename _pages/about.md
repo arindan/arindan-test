@@ -8,9 +8,7 @@ profile:
   align: right
   image: Mandal_Arindan.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Climate Change</p>
-    <p>IIT Hyderabad</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +24,7 @@ latest_posts:
 
 Thank you for visiting my webpage.
 
-I am part of the [Department of Climate Change](https://cc.iith.ac.in/), IIT Hyderabad, where my research focuses on the cryosphere (snow, glaciers, permafrost, etc.) and climate.
+I am part of the [Department of Climate Change](https://cc.iith.ac.in/), where my research focuses on the cryosphere (snow, glaciers, permafrost, etc.) and climate.
 
 Our current research particularly focuses on:
 
