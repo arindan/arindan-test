@@ -15,15 +15,15 @@ nav_order: 2
 - **Ladakh region** — spatial meteorological observation using low-cost meteorological data loggers.
 - **Chhota Shigri Glacier, Himachal Pradesh** - field observation site during PhD.
 
-### fieldwork-instrument photos
+### photos
 
 <div class="row">
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-1.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-1.jpg"
+    <a href="/arindan-test/assets/img/research/IMG_5299.JPG">
+      <img src="/arindan-test/assets/img/research/IMG_5299.JPG"
            class="img-fluid rounded"
-           alt="Field research site 1">
+           alt="AWS on the Stok Glacier">
     </a>
   </div>
 
@@ -71,7 +71,7 @@ nav_order: 2
 
 ---
 
-## research instruments and tools
+## instruments and tools
 
 some of the instruments and tools we use for field measurements and data collection include:
 
@@ -82,7 +82,7 @@ some of the instruments and tools we use for field measurements and data collect
 - snow-avalanche probe (snow depth and water equivalent)
 - dual/triple band GNSS device (u-blox) - ice velocity, moraine stability
 
-### software and code
+### software
 
 - Python - data analysis and visualisation
 - QGIS - remote sensing and GIS solution
