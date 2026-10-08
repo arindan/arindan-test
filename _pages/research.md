@@ -51,22 +51,6 @@ nav_order: 2
     </a>
   </div>
 
-  <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-5.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-5.jpg"
-           class="img-fluid rounded"
-           alt="Field research site 5">
-    </a>
-  </div>
-
-  <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-6.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-6.jpg"
-           class="img-fluid rounded"
-           alt="Field research site 6">
-    </a>
-  </div>
-
 </div>
 
 ---
