@@ -28,24 +28,24 @@ nav_order: 2
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-2.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-2.jpg"
+    <a href="/arindan-test/assets/img/research/IMG_4672.JPG">
+      <img src="/arindan-test/assets/img/research/IMG_4672.JPG"
            class="img-fluid rounded"
            alt="Field research site 2">
     </a>
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-3.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-3.jpg"
+    <a href="/arindan-test/assets/img/research/IMG_4637.JPG">
+      <img src="/arindan-test/assets/img/research/IMG_4637.JPG"
            class="img-fluid rounded"
            alt="Field research site 3">
     </a>
   </div>
 
   <div class="col-sm-6 col-md-4 mb-4">
-    <a href="/arindan-test/assets/img/research/fieldwork-4.jpg">
-      <img src="/arindan-test/assets/img/research/fieldwork-4.jpg"
+    <a href="/arindan-test/assets/img/research/IMG_2031.JPEG">
+      <img src="/arindan-test/assets/img/research/IMG_2031.JPEG"
            class="img-fluid rounded"
            alt="Field research site 4">
     </a>
